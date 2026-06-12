@@ -1,13 +1,13 @@
 # Dhruvesh Kamble
 
 **Electronics & Telecommunication Engineer** · VIT Pune · CGPA 8.97  
-Embedded Systems · VLSI · ARM Cortex-M · STM32 · ESP32
+Embedded Systems · VLSI · ARM Cortex-M · STM32 · ESP32 · Bare-Metal Programming
 
 ---
 
 ## About
 
-Final-year ECE student with a primary focus on embedded firmware development — bare-metal drivers, peripheral interfacing, and real hardware validation. I work directly with registers, not just abstractions. On the VLSI side, I have hands-on experience taking RTL through a full physical implementation flow using open-source tools targeting Sky130.
+ECE (2026) graduate with a primary focus on embedded firmware development — bare-metal drivers, peripheral interfacing, and real hardware validation. I work directly with registers, not just abstractions. On the VLSI side, I have hands-on experience taking RTL through a full physical implementation flow using open-source tools targeting Sky130.
 
 Two IEEE publications. Internship experience in industrial hardware. Currently building out the embedded portfolio.
 
