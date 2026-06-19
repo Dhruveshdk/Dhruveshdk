@@ -17,7 +17,8 @@ Multiple IEEE publications. Internship experience in industrial hardware. Curren
 
 | Repository | Description | Stack |
 |---|---|---|
-| [PWM-Motor-Control-STM32](https://github.com/Dhruveshdk/PWM-Motor-Control-STM32) | Bare-metal PWM firmware on STM32 Nucleo-F411RE for DC motor speed control via TIM2. Built during industry project at Austech EnggFab for AGV application. | Embedded C · STM32 · Bare-metal |
+| [PWM-Motor-Control-STM32](https://github.com/Dhruveshdk/PWM-Motor-Control-STM32) | Bare-metal PWM firmware for STM32 Nucleo-F411RE, developed as part of an industry-sponsored AGV motor-control study. Includes a companion MATLAB/Simulink PI controller model for closed-loop speed analysis and control strategy validation. | Embedded C · STM32 · MATLAB/Simulink · Control Systems |
+| [UART-Commanded-DC-Motor-Controller](https://github.com/Dhruveshdk/UART-Commanded-DC-Motor-Controller) | Bare-metal STM32 firmware that accepts UART ASCII commands to control a DC motor through PWM speed regulation and GPIO-based direction control, implemented entirely through direct register access without HAL/CubeMX. | Embedded C · STM32 · UART · PWM · Bare-metal |
 | *More coming* | | |
 
 ---
