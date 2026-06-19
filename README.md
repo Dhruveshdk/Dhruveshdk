@@ -65,6 +65,8 @@ Oscilloscope · Multimeter · UART serial debugging
 
 - **NeuroDrive: An EEG-Based System for Virtual Driving and Robotic Car Navigation** — IEEE ACOIT 2025 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11436410)
 - **SmartSight: Image Captioning-Driven Assistive Mobility System** — ICICV 2025 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11085572)
+- **Design and Development of an IoT-Enabled Remote-Controlled Hovercraft for Efficient Land and Water Mobility** — ICACRS 2024 [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/10841674)
+- **Low-Density Parity Check (LDPC) Architecture Using Verilog** — ICCTDC 2025 [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11158053)
 - *RO-PUF ASIC Implementation in Sky130* — under preparation
 
 ---
