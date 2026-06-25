@@ -14,11 +14,11 @@ Multiple IEEE publications. Internship experience in industrial hardware. Curren
 ---
 
 ## Embedded Systems
-
 | Repository | Description | Stack |
 |---|---|---|
 | [PWM-Motor-Control-STM32](https://github.com/Dhruveshdk/PWM-Motor-Control-STM32) | Bare-metal PWM firmware for STM32 Nucleo-F411RE, developed as part of an industry-sponsored AGV motor-control study. Includes a companion MATLAB/Simulink PI controller model for closed-loop speed analysis and control strategy validation. | Embedded C · STM32 · MATLAB/Simulink · Control Systems |
 | [UART-Commanded-DC-Motor-Controller](https://github.com/Dhruveshdk/UART-Commanded-DC-Motor-Controller) | Bare-metal STM32 firmware that accepts UART ASCII commands to control a DC motor through PWM speed regulation and GPIO-based direction control, implemented entirely through direct register access without HAL/CubeMX. | Embedded C · STM32 · UART · PWM · Bare-metal |
+| [embedded-c-coding-bank](https://github.com/Dhruveshdk/embedded-c-coding-bank) | Curated C coding problems for embedded software interviews — researched and collected based on patterns that commonly appear in tests and interviews. Solving and pushing solutions one by one as I prepare. | C · Embedded C |
 | *More coming* | | |
 
 ---
