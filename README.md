@@ -74,3 +74,5 @@ Oscilloscope · Multimeter · UART serial debugging
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruvesh%20Kamble-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dhruvesh-kamble-bb0312256)
 [![GitHub](https://img.shields.io/badge/GitHub-Dhruveshdk-181717?style=flat&logo=github)](https://github.com/Dhruveshdk)
+[![EWSkills]([https://github.com/Dhruveshdk](https://www.ewskills.com/user/DhruveshKamble))
+
